@@ -362,7 +362,7 @@
 					<key>Type</key>
 					<string>DDR3</string>
 					<key>Vendor</key>
-					<string>Samsung</string>
+					<string>Kingston</string>
 				</dict>
 				<dict>
 					<key>Frequency</key>
@@ -378,7 +378,7 @@
 					<key>Type</key>
 					<string>DDR3</string>
 					<key>Vendor</key>
-					<string>Samsung</string>
+					<string>Kingston</string>
 				</dict>
 			</array>
 		</dict>
